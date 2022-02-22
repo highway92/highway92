@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+여러 공식문서, 기술 블로그 등을 보고 기술을 접하고 구현해보고 있습니다.
+
+학습 목표를 단기적으로 세우고, 습득한 지식을 체득하기 위해 많은 프로젝트를 해보고자 합니다.
+
+프로젝트, 개인 공부를 거듭하며 새롭게 알게 된 내용들을 블로그에 정리하고 더 나아가서는 다른 사람들이 도움을 받았으면 합니다.
+
+추후 비즈니스 모델 설계에도 관여 할 수 있는 혜안을 가진 시니어가 되는 것이 목표입니다.
+
+
 
 ## 🦻 Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -18,17 +27,4 @@
 
 ## ⏳ DeepLearning
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
