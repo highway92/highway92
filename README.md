@@ -7,5 +7,4 @@ I tried to review my code from time to time, but every time I check it, I end up
 
 - Constantly learning something. My major was not computer science. So i keep studying about hardware, networking or something else.
 Thanks to many developers around the world, I am now able to understand the structure of the entire service, rather than just the code itself.
-It's really important to me because I also have to do some DevOps tasks.
 
